@@ -33,4 +33,3 @@ abre um PR para você revisar e mergear manualmente.
 Não edite os arquivos `recipes/*.recipe.yaml` diretamente por este repositório — edite
 pelo canvas do Recipe Studio v2 na extensão VS Code. O conteúdo é gerado/versionado por
 ela; edição manual pode ser sobrescrita na próxima gravação.
-teste
